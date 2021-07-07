@@ -19,6 +19,7 @@ rear=rear+1;
 queue[rear]=data;
 }
 }
+//new//
 int dequeue()
 {
 int data;
