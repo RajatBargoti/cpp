@@ -6,6 +6,7 @@ int front = -1, rear = -1;
 void enqueue(int data)
 {
 if (front==-1 && rear==-1)
+//aloo// 
 {
 front=rear=0;
 queue[rear]=data;
